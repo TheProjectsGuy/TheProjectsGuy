@@ -20,6 +20,9 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 <a href="https://scholar.google.com/citations?user=OZ0j8l4AAAAJ&hl=en">
     <img src="./assets/logos/google-scholar-logo.png" alt="GS" width="32" style="background-color:white" />
 </a>
+<a href="https://stackoverflow.com/users/5836037/avneesh-mishra">
+    <img src="assets/logos/stackoverflow-logo.png" alt="SO" width="32" style="background-color:white" />
+</a>
 <a href="https://gitter.im/TheProjectsGuy">
     <img src="./assets/logos/gitter-logo-50px.png" alt="GT" width="32" style="background-color:white" />
 </a>
