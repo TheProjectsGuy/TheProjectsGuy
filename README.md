@@ -45,6 +45,7 @@ My work is on SLAM (Simultaneous Localization and Mapping) algorithms.
     - [Courses](#courses)
         - [Spring 2022](#spring-2022)
         - [Monsoon 2021](#monsoon-2021)
+    - [Skills](#skills)
 
 ## Courses
 
@@ -65,6 +66,20 @@ My work is on SLAM (Simultaneous Localization and Mapping) algorithms.
 - [EC4.401 - Robotics: Dynamics and Control](https://github.com/TheProjectsGuy/RDC21-EC4.401)
 
 </details>
+
+## Skills
+
+- 👨‍💻 Programming languages
+
+    <img src="./assets/logos/cpp.png" height=24 alt="C++" style="background-color:white" />
+    <img src="./assets/logos/python.png" height=24 alt="C++" style="background-color:white" />
+
+- 💻 I am experienced in the following frameworks
+
+    <img src="./assets/logos/tensorflow-logo.png" height=24 alt="TensorFlow" style="background-color:white" />
+    <img src="./assets/logos/pytorch-logo.png" height=24 alt="TensorFlow" style="background-color:white" />
+    <img src="./assets/logos/opencv-logo.png" height=24 alt="OpenCV" style="background-color:white" />
+    <img src="./assets/logos/ros-logo.png" height=24 alt="ROS" style="background-color:white" />
 
 <!-- My stats (from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
