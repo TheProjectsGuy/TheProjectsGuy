@@ -31,7 +31,13 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 </a>
 </div>
 
+My stats (from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+
+<div align="center">
+
 [![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheProjectsGuy)](https://github.com/TheProjectsGuy/github-readme-stats)
+
+</div>
 
 <!--
 From: https://github.com/anuraghazra/github-readme-stats
