@@ -31,13 +31,38 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 </a>
 </div>
 
-My stats (from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+## Currently
+
+I'm pursuing M.S. by Research (CSE) at IIIT Hyderabad, in Robotics Research Center under Prof. Madhava Krishna.
+
+## Contents
+
+- [Avneesh Mishra (TheProjectsGuy) Welcomes you!](#avneesh-mishra-theprojectsguy-welcomes-you)
+    - [Currently](#currently)
+    - [Contents](#contents)
+    - [Courses](#courses)
+        - [IIIT Hyderabad](#iiit-hyderabad)
+
+## Courses
+
+### IIIT Hyderabad
+
+<details>
+    <summary> M.S. - Monsoon 2021 </summary>
+
+    1. Something here
+    2. Some other thing [here](www.google.com)
+    3. ![Mark](./assets/logos/github-mark-32px.png)
+</details>
+
+
+<!-- My stats (from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 <div align="center">
 
 [![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheProjectsGuy)](https://github.com/TheProjectsGuy/github-readme-stats)
 
-</div>
+</div> -->
 
 <!--
 From: https://github.com/anuraghazra/github-readme-stats
