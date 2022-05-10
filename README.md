@@ -4,7 +4,7 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 
 <div align="center">
 <img src="./assets/me.png" alt="A photo of me that didn't render" width="300" />
-
+<br>
 <a href="https://github.com/TheProjectsGuy">
     <img src="./assets/github-mark-32px.png" alt="GH" width="32" style="background-color:white" />
 </a>
