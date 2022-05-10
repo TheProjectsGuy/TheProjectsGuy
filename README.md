@@ -2,9 +2,29 @@
 
 Hi there 👋. This is the profile of Avneesh Mishra.
 
-<p align="center">
-    <img src="./assets/me.png" alt="A photo of me that didn't render" />
-</p>
+<div align="center">
+<img src="./assets/me.png" alt="A photo of me that didn't render" width="300" />
+
+<a href="https://github.com/TheProjectsGuy">
+    <img src="./assets/github-mark-32px.png" alt="GH" width="32" style="background-color:white" />
+</a>
+<a href="https://bitbucket.org/TheProjectsGuy/">
+    <img src="./assets/bitbucket-logo-64px.png" alt="BB" width="32" style="background-color:white" />
+</a>
+<a href="https://gitlab.com/TheProjectsGuy">
+    <img src="./assets/gitlab-logo-64px.png" alt="GL" width="32" style="background-color:white" />
+</a>
+<a href="https://www.linkedin.com/in/avneesh-mishra/">
+    <img src="./assets/linkedin-logo-34px.png" alt="LN" width="32" style="background-color:white" />
+</a>
+<a href="https://scholar.google.com/citations?user=OZ0j8l4AAAAJ&hl=en">
+    <img src="./assets/google-scholar-logo.png" alt="GS" width="32" style="background-color:white" />
+</a>
+<a href="https://twitter.com/123avneesh">
+    <img src="./assets/twitter-logo.png" alt="T" width="32" style="background-color:white" />
+</a>
+
+</div>
 
 <!--
 From: https://github.com/anuraghazra/github-readme-stats
