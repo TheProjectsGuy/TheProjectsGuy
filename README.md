@@ -23,10 +23,15 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 <a href="https://gitter.im/TheProjectsGuy">
     <img src="./assets/logos/gitter-logo-50px.png" alt="GT" width="32" style="background-color:white" />
 </a>
+<a href="mailto:123avneesh+ghme@gmail.com?subject=Hey Avneesh">
+    <img src="./assets/logos/gmail-logo-64px.png" alt="GM" width="32" style="background-color:white" />
+</a>
 <a href="https://twitter.com/123avneesh">
     <img src="./assets/logos/twitter-logo.png" alt="T" width="32" style="background-color:white" />
 </a>
 </div>
+
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheProjectsGuy)](https://github.com/TheProjectsGuy/github-readme-stats)
 
 <!--
 From: https://github.com/anuraghazra/github-readme-stats
