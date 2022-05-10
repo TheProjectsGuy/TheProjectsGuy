@@ -6,24 +6,26 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 <img src="./assets/me.png" alt="A photo of me that didn't render" width="300" />
 <br>
 <a href="https://github.com/TheProjectsGuy">
-    <img src="./assets/github-mark-32px.png" alt="GH" width="32" style="background-color:white" />
+    <img src="./assets/logos/github-mark-32px.png" alt="GH" width="32" style="background-color:white" />
 </a>
 <a href="https://bitbucket.org/TheProjectsGuy/">
-    <img src="./assets/bitbucket-logo-64px.png" alt="BB" width="32" style="background-color:white" />
+    <img src="./assets/logos/bitbucket-logo-64px.png" alt="BB" width="32" style="background-color:white" />
 </a>
 <a href="https://gitlab.com/TheProjectsGuy">
-    <img src="./assets/gitlab-logo-64px.png" alt="GL" width="32" style="background-color:white" />
+    <img src="./assets/logos/gitlab-logo-64px.png" alt="GL" width="32" style="background-color:white" />
 </a>
 <a href="https://www.linkedin.com/in/avneesh-mishra/">
-    <img src="./assets/linkedin-logo-34px.png" alt="LN" width="32" style="background-color:white" />
+    <img src="./assets/logos/linkedin-logo-34px.png" alt="LN" width="32" style="background-color:white" />
 </a>
 <a href="https://scholar.google.com/citations?user=OZ0j8l4AAAAJ&hl=en">
-    <img src="./assets/google-scholar-logo.png" alt="GS" width="32" style="background-color:white" />
+    <img src="./assets/logos/google-scholar-logo.png" alt="GS" width="32" style="background-color:white" />
+</a>
+<a href="https://gitter.im/TheProjectsGuy">
+    <img src="./assets/logos/gitter-logo-50px.png" alt="GT" width="32" style="background-color:white" />
 </a>
 <a href="https://twitter.com/123avneesh">
-    <img src="./assets/twitter-logo.png" alt="T" width="32" style="background-color:white" />
+    <img src="./assets/logos/twitter-logo.png" alt="T" width="32" style="background-color:white" />
 </a>
-
 </div>
 
 <!--
