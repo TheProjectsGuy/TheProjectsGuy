@@ -35,26 +35,36 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 
 I'm pursuing M.S. by Research (CSE) at IIIT Hyderabad, in Robotics Research Center under Prof. Madhava Krishna.
 
+My work is on SLAM (Simultaneous Localization and Mapping) algorithms.
+
 ## Contents
 
 - [Avneesh Mishra (TheProjectsGuy) Welcomes you!](#avneesh-mishra-theprojectsguy-welcomes-you)
     - [Currently](#currently)
     - [Contents](#contents)
     - [Courses](#courses)
-        - [IIIT Hyderabad](#iiit-hyderabad)
+        - [Spring 2022](#spring-2022)
+        - [Monsoon 2021](#monsoon-2021)
 
 ## Courses
 
-### IIIT Hyderabad
-
+<!-- From: https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab -->
 <details>
-    <summary> M.S. - Monsoon 2021 </summary>
+    <summary> IIIT Hyderabad - Academic courses </summary>
 
-    1. Something here
-    2. Some other thing [here](www.google.com)
-    3. ![Mark](./assets/logos/github-mark-32px.png)
+### Spring 2022
+
+- [CS7.505 - Computer Vision](https://github.com/TheProjectsGuy/CV22-CS7.505)
+- [EC9.404 - Independent Study](https://github.com/TheProjectsGuy/IS_RPN22-EC9.404)
+- [EC4.402 - Introduction to UAV Design](https://github.com/TheProjectsGuy/UAV22-EC4.402)
+
+### Monsoon 2021
+
+- [CS7.403 - Statistical Methods in AI](https://github.com/TheProjectsGuy/SMAI21-CS7.403)
+- [CS7.503 - Mobile Robotics](https://github.com/TheProjectsGuy/MR21-CS7.503)
+- [EC4.401 - Robotics: Dynamics and Control](https://github.com/TheProjectsGuy/RDC21-EC4.401)
+
 </details>
-
 
 <!-- My stats (from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
