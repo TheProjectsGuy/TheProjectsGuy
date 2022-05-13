@@ -84,6 +84,10 @@ My work is on SLAM (Simultaneous Localization and Mapping) algorithms.
     <img src="./assets/logos/opencv-logo.png" height=24 alt="OpenCV" style="background-color:white" />
     <img src="./assets/logos/ros-logo.png" height=24 alt="ROS" style="background-color:white" />
 
+Miscellaneous links
+
+- [RRC SysAdmin Notion Page](https://www.notion.so/RRC-System-Administrator-s-Guide-c8954b4a4bc04b2f8e17fd0e9f8086cd) (my personal reference)
+
 <!-- My stats (from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 <div align="center">
