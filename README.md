@@ -45,10 +45,20 @@ My work is on SLAM (Simultaneous Localization and Mapping) algorithms.
 - [Avneesh Mishra (TheProjectsGuy) Welcomes you!](#avneesh-mishra-theprojectsguy-welcomes-you)
     - [Currently](#currently)
     - [Contents](#contents)
+    - [Activities](#activities)
+        - [RRC, IIIT Hyderabad](#rrc-iiit-hyderabad)
     - [Courses](#courses)
         - [Spring 2022](#spring-2022)
         - [Monsoon 2021](#monsoon-2021)
     - [Skills](#skills)
+
+## Activities
+
+Things I've done
+
+### RRC, IIIT Hyderabad
+
+- Multi-View Geometry (4/4) - Summer School 2022. [GitHub](https://github.com/TheProjectsGuy/RRC22-Summer-School-MVG4), [Notion](https://laksh-nanwani.notion.site/laksh-nanwani/Robotics-Research-Center-Summer-School-2022-8ee9a9ff7fc445619c2b650a1557e946).
 
 ## Courses
 
