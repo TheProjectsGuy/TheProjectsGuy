@@ -26,6 +26,9 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 <a href="https://gitter.im/TheProjectsGuy">
     <img src="./assets/logos/gitter-logo-50px.png" alt="GT" width="32" style="background-color:white" />
 </a>
+<a href="mailto:avneesh.mishra+ghme@research.iiit.ac.in?subject=Hey Avneesh">
+    <img src="./assets/logos/outlook.png" alt="OM" width="32" style="background-color:white" />
+</a>
 <a href="mailto:123avneesh+ghme@gmail.com?subject=Hey Avneesh">
     <img src="./assets/logos/gmail-logo-64px.png" alt="GM" width="32" style="background-color:white" />
 </a>
