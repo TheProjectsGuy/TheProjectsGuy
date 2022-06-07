@@ -48,8 +48,7 @@ My work is on SLAM (Simultaneous Localization and Mapping) algorithms.
     - [Activities](#activities)
         - [RRC, IIIT Hyderabad](#rrc-iiit-hyderabad)
     - [Courses](#courses)
-        - [Spring 2022](#spring-2022)
-        - [Monsoon 2021](#monsoon-2021)
+        - [IIIT Hyderabad](#iiit-hyderabad)
     - [Skills](#skills)
 
 ## Activities
@@ -66,13 +65,15 @@ Things I've done
 <details>
     <summary> IIIT Hyderabad - Academic courses </summary>
 
-### Spring 2022
+### IIIT Hyderabad
+
+**Spring 2022**
 
 - [CS7.505 - Computer Vision](https://github.com/TheProjectsGuy/CV22-CS7.505)
 - [EC9.404 - Independent Study](https://github.com/TheProjectsGuy/IS_RPN22-EC9.404)
 - [EC4.402 - Introduction to UAV Design](https://github.com/TheProjectsGuy/UAV22-EC4.402)
 
-### Monsoon 2021
+**Monsoon 2021**
 
 - [CS7.403 - Statistical Methods in AI](https://github.com/TheProjectsGuy/SMAI21-CS7.403)
 - [CS7.503 - Mobile Robotics](https://github.com/TheProjectsGuy/MR21-CS7.503)
