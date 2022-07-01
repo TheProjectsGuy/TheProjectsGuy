@@ -23,6 +23,9 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 <a href="https://stackoverflow.com/users/5836037/avneesh-mishra">
     <img src="assets/logos/stackoverflow-logo.png" alt="SO" width="32" style="background-color:white" />
 </a>
+<a href="https://www.hackerrank.com/avneesh_mishra">
+    <img src="./assets/logos/hackerrank-logo-96px.png" alt="HR" width="32" style="background-color:white" />
+</a>
 <a href="https://gitter.im/TheProjectsGuy">
     <img src="./assets/logos/gitter-logo-50px.png" alt="GT" width="32" style="background-color:white" />
 </a>
