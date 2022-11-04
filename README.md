@@ -40,6 +40,12 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 </a>
 </div>
 
+<div align="center">
+<a href="https://www.buymeacoffee.com/123avneesh">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=123avneesh&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" height="41" />
+</a>
+</div>
+
 ## Currently
 
 I'm pursuing M.S. by Research (CSE) at IIIT Hyderabad, in Robotics Research Center under Prof. Madhava Krishna.
