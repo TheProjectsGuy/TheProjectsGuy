@@ -41,8 +41,8 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 </div>
 
 <div align="center">
-<a href="https://liberapay.com/avneesh_m">
-    <img src="https://liberapay.com/assets/liberapay/logo-v2_black-on-yellow.1024.png" height="32" />
+<a href="https://liberapay.com/avneesh_m/donate">
+    <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="32">
 </a>
 <a href="https://github.com/sponsors/TheProjectsGuy">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="32" />
