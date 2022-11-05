@@ -41,8 +41,14 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 </div>
 
 <div align="center">
+<a href="https://liberapay.com/avneesh_m">
+    <img src="https://liberapay.com/assets/liberapay/logo-v2_black-on-yellow.1024.png" height="32" />
+</a>
+<a href="https://github.com/sponsors/TheProjectsGuy">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="32" />
+</a>
 <a href="https://www.buymeacoffee.com/123avneesh">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=123avneesh&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" height="41" />
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=123avneesh&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" height="32" />
 </a>
 </div>
 
