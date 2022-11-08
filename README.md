@@ -75,7 +75,7 @@ Things I've done
 
 ### RRC, IIIT Hyderabad
 
-- Multi-View Geometry (4/4) - Summer School 2022. [GitHub](https://github.com/TheProjectsGuy/RRC22-Summer-School-MVG4), [Notion](https://laksh-nanwani.notion.site/laksh-nanwani/Robotics-Research-Center-Summer-School-2022-8ee9a9ff7fc445619c2b650a1557e946).
+- Multi-View Geometry (4/4) - Summer School 2022. [GitHub](https://github.com/TheProjectsGuy/RRC22-Summer-School-MVG4), [Notion](https://laksh-nanwani.notion.site/laksh-nanwani/Robotics-Research-Center-Summer-School-2022-8ee9a9ff7fc445619c2b650a1557e946), [YouTube](https://youtube.com/playlist?list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o) ([this](https://www.youtube.com/watch?v=-8B6lbdl3dk&list=PLoy_JcjmT4hxKOPdmwj_KjN6lO84J253o&index=14)).
 
 ## Courses
 
