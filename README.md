@@ -1,9 +1,11 @@
 # Avneesh Mishra (TheProjectsGuy) Welcomes you!
 
-Hi there 👋. This is the profile of Avneesh Mishra.
+Hi there 👋. This is the profile of Avneesh Mishra. Check out my website [here](https://theprojectsguy.github.io/).
 
 <div align="center">
+<a href="https://theprojectsguy.github.io/">
 <img src="./assets/me.png" alt="A photo of me that didn't render" width="300" />
+</a>
 <br>
 <a href="https://github.com/TheProjectsGuy">
     <img src="./assets/logos/github-mark-32px.png" alt="GH" width="32" style="background-color:white" />
@@ -40,7 +42,7 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://liberapay.com/avneesh_m/donate">
     <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" height="32">
 </a>
@@ -50,7 +52,7 @@ Hi there 👋. This is the profile of Avneesh Mishra.
 <a href="https://www.buymeacoffee.com/123avneesh">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=123avneesh&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" height="32" />
 </a>
-</div>
+</div> -->
 
 ## Currently
 
