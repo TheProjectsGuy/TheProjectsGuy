@@ -54,23 +54,6 @@ Hi there 👋. This is the profile of Avneesh Mishra. Check out my website [here
 </a>
 </div> -->
 
-## Currently
-
-I'm pursuing M.S. by Research (CSE) at IIIT Hyderabad, in Robotics Research Center under Prof. Madhava Krishna.
-
-My work is on SLAM (Simultaneous Localization and Mapping) algorithms.
-
-## Contents
-
-- [Avneesh Mishra (TheProjectsGuy) Welcomes you!](#avneesh-mishra-theprojectsguy-welcomes-you)
-    - [Currently](#currently)
-    - [Contents](#contents)
-    - [Activities](#activities)
-        - [RRC, IIIT Hyderabad](#rrc-iiit-hyderabad)
-    - [Courses](#courses)
-        - [IIIT Hyderabad](#iiit-hyderabad)
-    - [Skills](#skills)
-
 ## Activities
 
 Things I've done
